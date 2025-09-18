@@ -142,13 +142,16 @@
 # print(f.readlines())
 # f.close()
 
-f=open("/home/loki/raj/a.txt")
+# f=open("/home/loki/raj/a.txt")
 # for i in range(5):
 #         line=f.readline()
         
 #         if not line:
 #           break
 #         print(line.strip())
-print(f.readline())
+# print(f.readline())
 
-print(f.readline())
+# print(f.readline())
+
+
+

@@ -1,0 +1,33 @@
+Write a program to print the numbers from 1 to 10 using a loop.
+
+Write a program to find the sum of two numbers entered by the user.
+
+Write a program to swap two numbers using a third variable.
+
+Write a program to swap two numbers without using a third variable.
+
+Write a program to check whether a number is even or odd.
+
+Write a program to find the largest of two numbers.
+
+Write a program to find the largest of three numbers.
+
+Write a program to print the multiplication table of a number entered by the user.
+
+Write a program to calculate the factorial of a number using a loop.
+
+Write a program to print all even numbers between 1 and 50.
+
+Write a program to reverse a given number (e.g., 123 → 321).
+
+Write a program to check whether a number is a palindrome (e.g., 121 → palindrome).
+
+Write a program to find the sum of digits of a number (e.g., 123 → 6).
+
+Write a program to print the Fibonacci series up to 10 terms.
+
+1.Discount calculator: Create a function that takes a price and a discount percentage and returns the discounted price. 
+2.Celsius to Fahrenheit: Write a program that takes a temperature in Celsius and converts it to Fahrenheit.
+3.Simple interest: Write a program to find the simple interest when the principal, rate of interest, and time are given.
+4.Square root: Calculate the square root of a given number
+Write a program to print your name on the screen.

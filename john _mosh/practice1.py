@@ -93,7 +93,7 @@
 #     print(result,(f"={number}*{digit}"))
 
 # 14.Write a program to calculate the factorial of a number.
-number=4
+# number=4
 # while number>=1:
    
 #     # result=(number-1)    #4*3*2
