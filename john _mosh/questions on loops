@@ -26,8 +26,66 @@ Write a program to find the sum of digits of a number (e.g., 123 → 6).
 
 Write a program to print the Fibonacci series up to 10 terms.
 
-1.Discount calculator: Create a function that takes a price and a discount percentage and returns the discounted price. 
-2.Celsius to Fahrenheit: Write a program that takes a temperature in Celsius and converts it to Fahrenheit.
-3.Simple interest: Write a program to find the simple interest when the principal, rate of interest, and time are given.
-4.Square root: Calculate the square root of a given number
+Write a program to check whether a number is positive or negative.
+
+
+Write a program to find the largest of three numbers using nested if.
+
+Write a program to check whether a given number is divisible by 5 and 11 or not.
+
+Write a program to check whether a year is a leap year or not.
+
+Write a program to accept a character from the user and check whether it is a vowel or consonant.
+
+Write a program to check whether a person is eligible to vote (age ≥ 18).
+
+Write a program to accept marks from a student and print their grade:
+
+90–100 → A
+
+75–89 → B
+
+50–74 → C
+
+Below 50 → Fail
+
+Write a program to check whether a given number is a single-digit, double-digit, or more than two digits.
+
+Write a program to accept three angles of a triangle and check whether the triangle is valid or not (sum = 180°).
+
+Write a program to check whether a character entered by the user is an uppercase letter, lowercase letter, digit, or special symbol.
+
+Write a program to accept the age of a person and classify them as:
+
+Child (0–12)
+
+Teenager (13–19)
+
+Adult (20–59)
+
+Senior Citizen (60 and above).
+
+Write a program to accept the cost price and selling price of a product and determine whether it is a profit, loss, or no profit-no loss.
+
+Discount calculator: Create a function that takes a price and a discount percentage and returns the discounted price. 
+Celsius to Fahrenheit: Write a program that takes a temperature in Celsius and converts it to Fahrenheit.
+Simple interest: Write a program to find the simple interest when the principal, rate of interest, and time are given.
+Square root: Calculate the square root of a given number
 Write a program to print your name on the screen.
+
+
+
+-----------
+   strip() is use only for stings or etc.
+
+
+
+
+
+*****************
+----advantage of for loop and while loop.
+----why we use loops why not statements(if).
+----diff between statements and for and while loops.
+----use recursion method in factorial program
+
+(  return n * factorial(n - 1)---meaning and how it is printi)

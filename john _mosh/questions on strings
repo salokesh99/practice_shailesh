@@ -1,0 +1,29 @@
+Write a program to accept a string from the user and print it.
+
+Write a program to find the length of a string without using len().
+
+Write a program to convert a string to uppercase.
+
+Write a program to convert a string to lowercase.
+
+Write a program to count how many vowels are in a string.
+
+Write a program to reverse a string.
+
+Write a program to check whether a string is a palindrome (same forward and backward).
+
+Write a program to count the number of words in a string.
+
+Write a program to replace all spaces in a string with hyphens (-).
+
+Write a program to check whether a given substring is present in the string or not.
+
+Write a program to remove all vowels from a string.
+
+Write a program to find the first and last character of a string.
+
+Write a program to count the frequency of each character in a string.
+
+Write a program to check whether two strings are equal or not.
+
+Write a program to accept a string and print only the digits present in it.
