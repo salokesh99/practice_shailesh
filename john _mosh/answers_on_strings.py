@@ -143,6 +143,18 @@
 
 
 
+#---------another solution
+
+a="shailesh"
+b=""
+for ch in a:
+    if ch not in b:
+      print(a.count(ch))
+      b+=ch
+
+
+
+
 
 #14-----Write a program to check whether two strings are equal or not.
 # a="shailesh"
@@ -164,6 +176,81 @@
 #     if '-9'<=ch<='9':
 
 #         print(ch)
+
+
+
+
+
+#16------Write a program to accept a string and print it in title case (first letter of each word capital).
+# a=input("enter : ")
+# print(a.title())
+
+
+
+#17-----Write a program to check whether a string starts with a vowel or not.
+# a="shailesh"
+# vowel="aeiouAEIOU"
+# if a[0]  in vowel:
+#     print("it is vowel")
+# else:
+#     print("it is not vowel") 
+
+
+
+
+#18----Write a program to find the largest word in a string.
+# a="shailesh ajja wjsndh"
+# b=a.split()
+# largest=b[0]
+
+# for word in b:
+#    if len(word)>len(largest):
+#       largest=word
+# print(largest)
+
+
+
+
+#19----Write a program to remove all special characters from a string (keep only letters and digits).
+# a="shailesh ajja12 @a$"
+# b=""
+
+# for ch in a:
+#     if '-9'<=ch<='9':
+#         b=b+ch
+#     elif 'a'<=ch<='z':
+#         b=b+ch
+#     elif 'A'<=ch<='Z':
+#         b=b+ch
+#     elif ch==" ":
+#         b=b+" "
+#     else:
+#         pass
+# print(b)    
+
+
+
+
+#20-----Write a program to count how many uppercase and lowercase letters are in a string.
+
+# a=input("enter string : ")
+# uppercase_count=0
+# lowercase_count=0
+# for ch in a:
+    
+#     if 'a'<=ch<='z':
+        
+#         uppercase_count+=1
+
+#     elif 'A'<=ch<='Z':
+        
+#         lowercase_count+=1
+# print(lowercase_count)
+# print(uppercase_count)
+
+
+      
+            
 
 
 

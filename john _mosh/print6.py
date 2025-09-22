@@ -42,22 +42,41 @@
 # else:
 #     print("you loss")
 
-command=""
-while command!="quite":
-    command=input("> ").lower()
-    if command=="start":
-        print("car is srart")
-    elif command=="stop":
-        print("car is stopped")
-    elif command=="help":
-        print("""
-          start -to start the car
-           stop-to stop the car
-           quit- to quit
-         """)
+# command=""
+# while command!="quite":
+#     command=input("> ").lower()
+#     if command=="start":
+#         print("car is srart")
+#     elif command=="stop":
+#         print("car is stopped")
+#     elif command=="help":
+#         print("""
+#           start -to start the car
+#            stop-to stop the car
+#            quit- to quit
+#          """)
         
         
-    else:
-        print("sorry i dont understand")  
-        break
+#     else:
+#         print("sorry i dont understand")  
+#         break
     
+
+
+
+#------------------------------------------------------
+
+# a=["apple","banana","mango"]
+# b=[x for x in a if "a" in x]
+# print(b)
+
+# b=[x for x in a if x!="apple"]
+# print(b)
+
+# b=[x for x in a]
+# print(b)
+
+# b=[x.upper() for x in a ]
+# print(b)
+
+

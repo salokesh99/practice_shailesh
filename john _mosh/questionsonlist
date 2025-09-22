@@ -1,0 +1,43 @@
+Write a program to create a list of 5 numbers and print it.
+
+Write a program to find the length of a list without using len().
+
+Write a program to access the first and last elements of a list.
+
+Write a program to find the sum of all elements in a list.
+
+Write a program to find the largest and smallest element in a list.
+
+Write a program to count how many times a specific element appears in a list.
+
+Write a program to reverse a list without using reverse().
+
+Write a program to remove duplicates from a list.
+
+Write a program to sort a list in ascending order without using sort().
+
+Write a program to merge two lists into a single list.
+
+Write a program to print all even numbers from a list.
+
+Write a program to print all odd numbers from a list.
+
+Write a program to find the second largest element in a list.
+
+Write a program to insert an element at a specific position in a list.
+
+Write a program to delete an element from a specific position in a list.
+
+Write a program to check whether an element exists in a list or not.
+
+Write a program to print the sum of elements at even and odd positions separately.
+
+Write a program to count the number of positive and negative numbers in a list.
+
+Write a program to copy all elements from one list to another.
+
+Write a program to find common elements between two lists.
+
+
+
+------take strings in list count which is largest
