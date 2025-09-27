@@ -1,0 +1,20 @@
+Write a program to create a tuple with different data types and print it.
+
+Write a program to access the first and last elements of a tuple.
+
+Write a program to find the length of a tuple without using len().
+
+Write a program to check whether a given element exists in a tuple.
+
+Write a program to convert a tuple into a list and modify it.
+
+Write a program to create a set of 5 numbers and print it.
+
+Write a program to add and remove elements from a set.
+
+Write a program to find the union and intersection of two sets.
+
+Write a program to check whether one set is a subset of another set.
+
+Write a program to remove duplicates from a list using a set.
+

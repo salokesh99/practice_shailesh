@@ -1,0 +1,40 @@
+# Write a program to create a dictionary with 3 key-value pairs and print it.
+
+# Write a program to access a value from the dictionary using its key.
+
+# Write a program to add a new key-value pair to an existing dictionary.
+
+# Write a program to update the value of an existing key in a dictionary.
+
+# Write a program to delete a key-value pair from a dictionary.
+
+# Write a program to check if a given key exists in a dictionary.
+
+# Write a program to print all keys in a dictionary.
+
+# Write a program to print all values in a dictionary.
+
+# Write a program to print all key-value pairs in a dictionary.
+
+# Write a program to find the length of a dictionary without using len().
+
+# Write a program to create a dictionary of 5 students with their marks and print it.
+
+# Write a program to find the student with the highest marks from a dictionary.
+
+# Write a program to sum all values in a dictionary.
+
+# Write a program to multiply all values in a dictionary.
+
+# Write a program to merge two dictionaries into one.
+
+# Write a program to create a nested dictionary (dictionary inside dictionary) and print it.
+
+# Write a program to access values from a nested dictionary.
+
+# Write a program to count how many times each character appears in a string using a dictionary.
+
+# Write a program to convert two lists (keys and values) into a dictionary.
+
+# Write a program to create an empty dictionary and take 5 key-value pairs as input from the user.
+

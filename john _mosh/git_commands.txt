@@ -1,3 +1,12 @@
+
+==== push the changes
+
+
 git add .
 git commit -m "changes made today"
 git push origin master
+
+ pill changes === 
+
+
+git fetch

@@ -145,12 +145,12 @@
 
 #---------another solution
 
-a="shailesh"
-b=""
-for ch in a:
-    if ch not in b:
-      print(a.count(ch))
-      b+=ch
+# a="shailesh"
+# b=""
+# for ch in a:
+#     if ch not in b:
+#       print(a.count(ch))
+#       b+=ch
 
 
 
