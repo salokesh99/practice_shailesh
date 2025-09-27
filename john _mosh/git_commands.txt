@@ -1,3 +1,9 @@
 git add .
 git commit -m "changes made today"
 git push origin master
+
+
+
+for fetch;-
+git fetch 
+git pull
