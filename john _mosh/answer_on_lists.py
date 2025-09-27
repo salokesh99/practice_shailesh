@@ -165,8 +165,75 @@
 
 
 
+#16-----Write a program to print the sum of elements at even and odd positions separately.
+# a=[1,2,3,4,5]
+# even_sum=0
+# odd_sum=0
+# for i in a:
+#     if i%2==0:
+#         even_sum=even_sum+i
 
-        
+#     else :
+#        odd_sum=odd_sum+i
+# print("sum of odd positions=",odd_sum)
+# print("sum of even positions=",even_sum)
+
+
+
+
+
+#17-----Write a program to count the number of positive and negative numbers in a list.
+# a=[1,2,-3,4,-5]
+# positive_count=0
+# negative_count=0
+# for i in a:
+#     if 0<=i<=9:
+     
+#         positive_count+=1
+       
+#     else:
+#         negative_count+=1   
+# print(positive_count)   
+# print(negative_count)     
+
+
+
+
+#18------Write a program to copy all elements from one list to another.
+# a=[1,2,3,4,5,3]
+# b=[]
+# for i in a:
+#     b.append(i)
+# print(b)    
+
+
+
+
+#19-----take strings in list count which is largest.
+# a=["shailesh","ajja","jahdiwj"]
+# largest=a[0]
+# for word in a:
+#     if len(word)>len(largest):
+#         largest=word
+# print(largest,"=",len(largest))        
+
+
+#20-----Write a program to find common elements between two lists.
+# a=[1,2,3,4]
+# b=[6,7,5,2,4]
+# for i in a:
+#     for j in b:
+#         if i==j:
+#             print(i)
+
+
+
+
+
+
+
+
+
       
         
 

@@ -80,3 +80,18 @@
 # print(b)
 
 
+# a={"shailesh","ajja"}
+# a.discard("apple")
+# a.pop()
+# print(a)
+
+
+
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+# x=thisdict.get("model")
+x=thisdict.keys()
+print(x)
