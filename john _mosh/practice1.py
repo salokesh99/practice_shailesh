@@ -236,19 +236,19 @@
 #     print("all are equal")    
 
 #30.Write a program to reverse a list in place. 
-numbers=[1,2,3,4,5]
-new=[]
-# numbers.reverse()
-# print(numbers)
-n=len(numbers)
-a=1
-for i in range(n):
+# numbers=[1,2,3,4,5]
+# new=[]
+# # numbers.reverse()
+# # print(numbers)
+# n=len(numbers)
+# a=1
+# for i in range(n):
     
-    b=numbers[-a]
-    a+=1
-    new.append(b)
+#     b=numbers[-a]
+#     a+=1
+#     new.append(b)
 
-print(new)
+# print(new)
 
 
 

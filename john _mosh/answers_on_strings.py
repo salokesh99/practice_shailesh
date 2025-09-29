@@ -17,12 +17,36 @@
 # name="shailesh ajja"
 # print(name.upper())
 
+# --------without method
+
+# name="shailesh"
+# b=""
+
+# for ch in name:
+#     a=ord(ch)-32
+#     b+=chr(a)
+# print(b)    
+
+
 
 
 #4-----Write a program to convert a string to lowercase.
 # name="SHAILesh ajJA"
 # print(name.lower())
 
+
+#------without method
+
+# name="SHAILESH AJJA"
+# b=""
+
+# for ch in name:
+#   if ch!=" ":  
+#     a=ord(ch)+32
+#     b+=chr(a)
+#   else:
+#     b+=" "  
+# print(b)
 
 
 #5----Write a program to count how many vowels are in a string.
