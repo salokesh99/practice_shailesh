@@ -210,19 +210,66 @@
 
 
 #16---- Write a program to create a nested dictionary (dictionary inside dictionary) and print it.
-students={
-    "student_1":{
-        "name":"veeresh"
-    },
-    "student_2":{
-        "name":"ajay"
-    },
-    "student_3":{
-        "name":"vijay"
-    },
-    "student_4":{
-        "name":"vishwa"
-    }
+# students={
+#     "student_1":{
+#         "name":"veeresh"
+#     },
+#     "student_2":{
+#         "name":"ajay"
+#     },
+#     "student_3":{
+#         "name":"vijay"
+#     },
+#     "student_4":{
+#         "name":"vishwa"
+#     }
 
-}
-print(students)
+# }
+# print(students)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Write a program to count how many times each character appears in a string using a dictionary.
+# students={
+#     "name":"shailesh",
+#     "father":"ayyappa" 
+# }
+# text=students["name"]+students["father"]
+# freq={}
+# for ch in text:
+#      if ch in freq:
+#           freq[ch]+=1
+#      else:
+#           freq[ch]=1
+ 
+# for x in freq:
+#      print(x,":",freq[x])             
+
+
+
+
+
+
+
+
+
